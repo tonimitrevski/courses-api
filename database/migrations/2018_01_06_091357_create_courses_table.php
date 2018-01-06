@@ -19,7 +19,7 @@ class CreateCoursesTable extends Migration
             $table->string('status')->nullable();
             $table->string('contact')->nullable();
             $table->text('details')->nullable();
-            $table->json('location');
+            $table->string('location')->nullable();
             $table->string('instructors')->nullable();
             $table->date('start_date')->nullable();
             $table->date('end_date')->nullable();
