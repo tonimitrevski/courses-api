@@ -1,0 +1,1202 @@
+[
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+        "title": "Classroom",
+        "city": "Houston",
+        "address": "Main Road 1"
+      }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"A License Performance Center",
+    "status":"CMP",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National F License Course",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Houston",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"National A License Course",
+    "status":"CLS",
+    "location":[],
+    "start_date":"2017-10-12",
+    "is_remote":true,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  },
+  {
+    "title":"B Course Florida",
+    "status":"REG",
+    "location":[{
+      "title":"Classroom",
+      "city":"Miami",
+      "address":"Main Road 1"
+    }],
+    "start_date":"2017-10-12",
+    "is_remote":false,
+    "end_date": "2018-01-01",
+    "continuous": false,
+    "contact": "admin@ussoccer.org",
+    "details": "nice text about the course",
+    "instructors": [122,4353,1]
+  }
+]
